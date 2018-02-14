@@ -1,0 +1,19 @@
+{
+  "name": "javakiller",
+  "version": "1.0.0",
+  "description": "Kills Java programs on Windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidagtz/JavaKiller-with-JS.git"
+  },
+  "author": "David Gutierrez <david.a.gutierrez99@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidagtz/JavaKiller-with-JS/issues"
+  },
+  "homepage": "https://github.com/davidagtz/JavaKiller-with-JS#readme"
+}
