@@ -1,6 +1,6 @@
 # JavaKiller
 
-Kills Java programs with name of file.
+Kills Java programs with name of file. Now it can also compile and run Java programs.
 
 ## Getting Started
 
@@ -15,9 +15,11 @@ In the command line
 ```
 npm install -g javakiller
 ```
-###Using the Package
+### Using the Package
 ```
 var jkill = require('javakiller');
+jkill.javac('example-name');
+jkill.java('example-name');
 jkill.kill('example-name');
 ```
 ## Built With
