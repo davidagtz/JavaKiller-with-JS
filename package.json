@@ -1,6 +1,6 @@
 {
   "name": "javakiller",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Kills Java programs on Windows",
   "main": "index.js",
   "scripts": {
